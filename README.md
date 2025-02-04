@@ -1,6 +1,6 @@
 ![TmAP8n236xqh75Q.png](https://i.loli.net/2020/07/13/OiwrC2KRZNPA9cJ.png)
 Hi there👋 <br>
-This is Maria Concetta Puzzo
+This is Maria Concetta Puzzo 🌏
 =====================================
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 Welcome to my Github page! I am Maria and I am currently finishing my Junior Full Stack degree at the Develhope Bootcamp!
