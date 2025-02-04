@@ -19,11 +19,10 @@ Full Stack Developer
  &nbsp;&nbsp;
   [![github](https://user-images.githubusercontent.com/25087769/87176037-2c4f1880-c2e2-11ea-8a13-41c90b711b9f.png)](https://github.com/marienne86) &nbsp;&nbsp;
   [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:mariaconcettapuzzo@gmail.com)
+  [![Github](https://img.shields.io/github/followers/marienne86?label=Follow&style=social)](https://github.com/marienne86)
 
-
-
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marienne86&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marienne86&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 
   ⭐️ From [marienne86](https://github.com/marienne86)
